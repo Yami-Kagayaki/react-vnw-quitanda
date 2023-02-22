@@ -1,3 +1,6 @@
 {
-  "item": 5
+  "imagens": {
+    "item": "https://freesvg.org/img/beterraba.png",
+    "descricao": "Beterraba"
+  }
 }

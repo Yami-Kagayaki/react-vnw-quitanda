@@ -4,7 +4,7 @@ export default class Cards extends Component {
   render() {
     return (
       <div>
-        <img src="s" alt="s" />
+        <img src={this.props.image} alt={this.props.textalt} />
       </div>
     );
   }
