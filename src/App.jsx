@@ -11,12 +11,8 @@ export default class App extends Component {
       <div className="App">
         <h1>Quitanda</h1>
         <div>
-          <Cards
-            image={this.state.itens.imagens.item}
-            textalt={this.state.itens.imagens.descricao}
-          />
-          <Cards image={this.state.itens.imagens[1]} />
-          <Cards image={this.state.itens.imagens[2]} />
+          <Cards content={this.state.itens.imagens[0]} />
+          <Cards content={this.state.itens.imagens[1]} />
         </div>
         <div></div>
       </div>
