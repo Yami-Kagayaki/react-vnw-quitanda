@@ -1,12 +1,36 @@
 {
   "imagens": [
     {
-      "item": "https://freesvg.org/img/beterraba.png",
+      "item": "https://cdn-icons-png.flaticon.com/512/5768/5768841.png",
       "descricao": "Beterraba"
     },
     {
-      "item": "",
+      "item": "https://images.vexels.com/media/users/3/143191/isolated/preview/925871db899c05172adae868b7ca93c0-icone-de-cor-laranja.png",
+      "descricao": "Laranja"
+    },
+    {
+      "item": "https://cdn-icons-png.flaticon.com/512/7119/7119451.png",
+      "descricao": "Cereja"
+    },
+    {
+      "item": "https://cdn-icons-png.flaticon.com/512/2517/2517987.png",
+      "descricao": "Cenoura"
+    },
+    {
+      "item": "https://cdn-icons-png.flaticon.com/512/5268/5268761.png",
       "descricao": "Maçã"
+    },
+    {
+      "item": "https://cdn-icons-png.flaticon.com/512/2909/2909899.png",
+      "descricao": "Manga"
+    },
+    {
+      "item": "https://images.vexels.com/media/users/3/236060/isolated/preview/e5d35f6f95e928840a309f3a5d88a445-fatias-de-limao.png",
+      "descricao": "Limão"
+    },
+    {
+      "item": "https://cdn-icons-png.flaticon.com/512/2909/2909922.png",
+      "descricao": "Tomate"
     }
   ]
 }
