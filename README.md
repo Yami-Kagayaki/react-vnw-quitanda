@@ -20,7 +20,7 @@ Develop my experience with React, improving my knowledge and learning new featur
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ## My process
 
